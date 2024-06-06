@@ -130,10 +130,6 @@ img {
   color: #404bbf;
 }
 
-/* andheader */
-
-/* 1 section */
-
 .section-title {
   background-color: #2e2f42;
   padding: 188px 0;
@@ -145,13 +141,11 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office\1.jpg);
+    url(../images/people-office.jpg);
   background-position: center;
 }
 
 .section-title-container {
-  padding-top: 188px;
-  padding-bottom: 188px;
 }
 
 .main-title {
@@ -391,8 +385,6 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-
-  margin-bottom: 16px;
   display: inline-block;
 }
 
