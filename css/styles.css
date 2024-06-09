@@ -330,11 +330,11 @@ img {
   row-gap: 48px;
 }
 
-.portfolio-element {
+.portfolio-list-image {
   width: calc((100% - 48px) / 3);
   position: relative;
   width: 360px;
-  height: 300px;
+
   overflow: hidden;
   margin-bottom: 16px;
   border-radius: 8px;
