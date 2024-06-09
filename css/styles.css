@@ -513,7 +513,7 @@ img {
 }
 
 .footer-icon {
-  display: flex;
+  margin-left: 120px;
 }
 
 .main-cection-icon {
@@ -574,3 +574,8 @@ img {
 .social-list-footer:focus {
   background-color: #31d0aa;
 } */
+
+.footer-icon-text {
+  margin-bottom: 16px;
+  color: #fff;
+}
