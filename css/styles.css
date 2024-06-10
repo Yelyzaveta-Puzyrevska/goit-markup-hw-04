@@ -413,6 +413,7 @@ img {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
+  font-weight: 500;
 }
 
 .page-header {
@@ -535,10 +536,6 @@ img {
   transform: translateY(0);
 }
 
-.footer-icon {
-  margin-left: 120px;
-}
-
 .main-cection-icon {
   display: flex;
   align-items: center;
@@ -601,4 +598,7 @@ img {
 .footer-icon-text {
   margin-bottom: 16px;
   color: #fff;
+}
+.footer-logo-text {
+  margin-right: 120px;
 }
