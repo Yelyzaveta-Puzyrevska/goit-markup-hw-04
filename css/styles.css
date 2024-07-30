@@ -608,15 +608,10 @@ img {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/* .social-list-item-footer:hover {
+.social-list-item-footer:hover {
   background-color: #31d0aa;
 }
 
 .social-list-item-footer:focus {
   background-color: #31d0aa;
-} */
-
-.social-list-item-footer:hover,
-.social-list-item-footer:focus {
-  fill: #4d5ae5;
 }
