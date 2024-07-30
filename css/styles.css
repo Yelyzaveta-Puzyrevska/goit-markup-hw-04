@@ -610,4 +610,5 @@ img {
 .social-list-item-footer:hover,
 .social-list-item-footer:focus {
   background-color: #31d0aa;
+  outline: 2px solid;
 }
