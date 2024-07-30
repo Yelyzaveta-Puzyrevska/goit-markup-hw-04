@@ -372,7 +372,7 @@ img {
   transform: translateY(0%);
 }
 
-.name_profession {
+.name-profession {
   padding-top: 32px;
   padding-bottom: 32px;
 }
@@ -551,7 +551,7 @@ img {
   transform: translateY(0);
 }
 
-.main-cection-icon {
+.main-section-icon {
   display: flex;
   align-items: center;
   justify-content: center;
